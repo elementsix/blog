@@ -9,7 +9,7 @@ tags:
 **2.问题解决**: 本地图片相对地址编译过程不能正确匹配网络端地址
 
 **3.解决过程演示**
-hexo + icarus theme 搭建静态博客 *source/gallery/test/tt.jpeg*
+hexo + icarus theme 搭建静态博客 **source/gallery/test/tt.jpeg**
 
 ```bash
 <div class="justified-gallery">
@@ -17,5 +17,5 @@ hexo + icarus theme 搭建静态博客 *source/gallery/test/tt.jpeg*
 ![hah](https://elementsix.github.io/img/tt.jpeg)
 ![hah](https://elementsix.github.io/gallery/test/tt.jpeg)
 
-</div>
+</div>q
 ```
